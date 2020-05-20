@@ -106,15 +106,3 @@ selected_game(nothing).
 
 preselected_games(nothing).
 preselected_games_options(nothing).
-
-
-
-
-
-
-
-
-
-
-
-
